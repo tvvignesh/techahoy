@@ -1,0 +1,23 @@
+Hey, 
+
+
+these are the few details about the individual pages:
+
+Home Page: Refer Image 1
+-> Login with facebook facility along with normal sign up option.
+->The part on the top saying click here to start searching for places has to be javascript enabled. On clicking it slides away and the frst of the 3 questions appear. Same way the ther 2 questions appear which helps a person decide his hangout destination in the city.
+-> Most visited place of the week appears as Cave of the week.
+-> Best ranked places of the week appears under Most liked caves. (refreshed weekly)
+-> Cavemen from manipal is a simple interview section. (A form needed in the back end to simply add these pages)
+
+Cave Profile Pages:
+Every kind of cave will have a profile page (4 categories: Connect with Nature, Bon Appetit, Nightlife and Just for Fun). We need a detailed form on the back-end after filling which a page is formed. It will contain the entire list of tags as checkboxes so that the ones we choose(like family/monetary details/food/drinks,etc). In this way pages will show up on search resutls.
+
+Search Results:
+The search results pages will show the places based on user search divided into all 4 categories.
+It should have a modify search and advanced search option. (eg. under Bon Appetit -> bakery, fastfood, restaurants,etc)
+
+User Profile Page:
+Will not be too complicated. Just basic stuff like info about the person(taken from facebook). Places he'she has visited. His personal reviews, photos of places, etc.
+
+These are the 4 main pages of the site. Rest shouldn't take much time.

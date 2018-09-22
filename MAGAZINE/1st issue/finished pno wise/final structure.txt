@@ -1,0 +1,79 @@
+final list of articles received and which will be included in the magazine with their structure
+
+
+1) Cover page (page 1 right)
+2) Team Page (page 2 left)
+3) About Tech Ahoy (page 3 right)
+4) Letter from the editor (page 4 left)
+page 5 - image(tech ahoy logo)
+4) Index (page 6,7) L&R
+5) Windows 8 Consumer Preview (page 8,9,10,11,12) LRLRL
+page 13 - template
+6) Cover Story Part 1 (search,chrome,blogger,plus,gtalk)
+(page 14,15,16,17,18,19,20,21,22,23,24,25) LRLRLRLRLRLR
+
+7) Piracy
+(page 26,27,28) LRL
+
+R - image
+
+8) Blackout/SOPA PIPA
+(page 29,30,31,32,33,34,35,36,37) LRLRLRLRL
+
+9) Pranav Mistry & 6th Sense
+(page 38,39,40) RLR
+
+10) Beyond Visible success (key players in tech world)
+(page 41,42,43) LRL
+
+11) The other part of Mozilla
+(page 44,45,46) RLR
+
+12) Cover Story Part 2 (picasa,gmail,youtube,google earth,android,google play,gsoc)
+(page 47,48,49,50,51,52,53,54,55,56,57,58) LRLRLRLRLRLR
+
+13) Photoshop Tutorial on Sketching
+(page 59,60,61,62) LRLR
+
+14) Algorithms
+(page 63,64) LR
+
+15) Mango Development
+(page 65,66) LR
+
+16) Wolframalpha
+(page 67,68,69,70,71,72,73,74,75,76,77,78,79,80)
+LRLRLRLRLRLRLR
+
+17) Feature a website  (Stumble Upon)
+(page 81) L
+
+18) Webcam Hack using Google
+(page 82,83) RL
+
+19) Reviews 
+    (HTC 1 series reviews,Android Apps Reviews,Browser Reviews,Game Reviews)
+
+(page 84,85,86,87,88,89,90,91,92,93,94,95) 
+RLRLRLRLRLRL
+
+21) Identify A person (blurred and hidden)
+(page 96)
+R
+
+22) LOGO Quiz
+(page 97,98)
+LR
+
+24) Brainwave generator
+(page 99,100,101)
+LRL
+
+25) Computer Viruses
+(page 102,103,104,105,106)
+RLRLR
+
+
+25) Last page containing links to website, fb groups, subscription options,etc
+(page 107)
+L

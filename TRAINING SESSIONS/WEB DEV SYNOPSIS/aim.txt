@@ -1,0 +1,37 @@
+PHOTOGRAPHY
+
+--> Allows user to log in, upload photos based on various categories, give keywords about image ( for search ), tag people.
+
+--> User can link his account to facebook etc...
+
+--> User can add friends to his account, friend suggestions based on account linked with facebook etc....
+
+--> User can choose the photo to be public / only friends / private..
+
+--> Users can like / comment / rate public photos of different categories..... Top rated photos will be visible on the home page...
+
+--> Explore section, where all public images will be visible.
+
+--> User can edit photos uploaded by him...
+
+--> User can download photos uploaded by him...
+
+--> User can create sub directories / folders, which will help to keep large no of photos in an organised manner
+
+--> Different viewing modes ie slideshows/galleries etc
+
+--> Top rated public photos of different categories will be present on the category pages...
+
+--> Home page will show top rated public photos of all categories combined ( if not logged in )
+
+--> if logged in, user can chose ' favourite photos ' , whose slide show will be visible at the home page AFTER log in....
+
+--> Share photos via facebook / twitter / Google plus
+
+--> User can share private photos with a single friend...
+
+--> Used can share a single photo / folder via email to a specific person....
+
+--> User can search public photos ( using keywords given during uploading ) 
+
+--> A photography  'competition' on photos on nature, in which users come and vote for your picture....

@@ -1,0 +1,29 @@
+A - Applet                     10                                                 
+B - Bonjour                  2                                                      C                   T   E   K   K  E   N
+C - Call Of Duty           4                           F    I   R   E   W  A   L   L              X   M   L
+D - Diablo                     1                               G  M   A     I   L                        C
+E -  Excel                    3                            V   L   C              L   K    A  S   P  E   R  S   K   Y
+F - Firewall                  1                                 B   O   N   J   O   U   R             L  K       R   P
+G - Gmail                     1                                      A              F                        J   A   V   A   H
+H - Halo                                                               P              D   I    A        L   O  S        P   O              
+I  - Internet                1                                        P              U   N   Z        A   O            T   T
+J  - Java                                                         S   L              T   T     I        P   P             O   O
+K - Kasperkey            2                             Q  U   E   U    E  Y   E     P       T   S            R   S
+L - Laptop                  3                                  B   T    M   I   C   R   O  S  O   F   T             H
+M - Microsoft             2                                  L                          N   F   S   P                      O 
+N - NFS	                        1                            I    H    A   L  O   E                                 U   P
+O - Oops                                                        G                          T   Y   A   H  O   O       R
+P - Photoshop                                              H				     L
+Q -  Queue                                                     T                          W   E  B  C  A   M
+R - Raptor                 1
+S - Sublight
+T - Tekken                   1
+U - URL
+V - VLC
+W - Webcam             1
+X - XML                     1
+Y - Yahoo
+Z -  ZIP
+
+
+

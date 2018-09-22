@@ -1,0 +1,119 @@
+HOME PAGE ( not logged in )
+{
+
+LOGIN
+
+Search tab
+
+SLIDE SHOW OF TOP RATED PUBLIC PHOTOS OF ALL CATEGORIES 
+
+
+A link to 'explore' page
+
+
+A link to photography competition page...
+
+
+
+}
+
+
+
+
+EXPLORE PAGE
+{
+
+Shows images on the basis of different categories, sorting on the basis of the rating of images of categories.
+
+
+On clicking on the image, you are taken to a page which displays only that image in full size ( upto a limit , after which it reduces the size )
+
+
+
+}
+
+IMAGE PAGE ( not logged in )
+{
+Displays image
+ 
+Option to download image
+
+Gives option to comment on the photo, rate it out of ten...
+
+}
+
+
+HOME PAGE (LOGGED IN)
+
+{
+
+friend suggestions --> people who are your friends on fb as well as a part of this website
+
+Uploading a new picture
+
+View FAVOURITE pictures as a slide show
+
+
+}
+
+
+IMAGE PAGE ( logged in )
+{
+Public image options
++ share with a friend , share on facebook/twitter/g+ or share it via email...
+
+Gives option to make photo favourite
+}
+
+
+Upload page
+{
+Option to chose file
+
+Make it public/ friends only / private
+
+Add keywords for search
+
+
+
+}
+
+Competition Page 
+{
+
+UPLOADING FOR COMPETITION --> YOU ADD YOUR NAME AS WELL...
+if logged in, shows photos submitted by you and their current no of votes
+
+if not logged in, shows RANDOM photos uploaded 
+
+link to show top ten images that are currently winning
+
+type your friend's name, and you can search photos submitted by him, and vote for them....
+
+
+}
+
+Categories page
+{
+
+Default --> Displays uploaded photos of all categories, sorts on basis of rating / 
+
+Option to view photos of a single category
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

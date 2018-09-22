@@ -1,0 +1,31 @@
+final list of articles received and which will be included in the magazine with their structure
+
+
+1) Cover page
+2) Magazine Team & Contact Details
+3) About Tech Ahoy
+4) Letter from mentor
+5) Letter from the editor
+4) Index
+5) Windows 8 Consumer Preview
+6) Cover Story Part 1 (search,chrome,blogger,plus,gtalk,picasa)
+7) Piracy
+8) Blackout/SOPA PIPA
+9) Pranav Mistry & 6th Sense
+10) Beyond Visible success (key players in tech world)
+11) The other part of Mozilla
+12) Cover Story Part 2 (gmail,youtube,google earth,android,google play,gsoc)
+13) Photoshop Tutorial on Sketching
+14) Algorithms
+15) Mango Development
+16) Wolframalpha
+17) Feature a website  (Stumble Upon)
+18) Webcam Hack using Google
+19) Computer viruses
+20) Reviews 
+    (HTC 1 series reviews,Android Apps Reviews,Browser Reviews,Game Reviews)
+21) Identify A person (blurred and hidden)
+22) LOGO Quiz
+23) Parallel Processing
+24) Brainwave generator
+25) Last page containing links to website, fb groups, subscription options,etc

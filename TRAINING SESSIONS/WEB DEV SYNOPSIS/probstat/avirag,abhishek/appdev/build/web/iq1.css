@@ -1,0 +1,61 @@
+body
+{
+	background : #FFF;
+}
+#content
+{
+	width : 1200px;
+	height : 600px;
+	background : #960;
+	margin : auto;
+	margin-top : 20px;
+	border-radius : 10px;
+}
+h1,h2,h3,h4,h5,h6
+{
+	width : 268px;
+	font-weight : bold;
+	margin : auto; 
+	padding-top : 10px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+	color:#369;
+	text-align:center;
+}
+
+
+#center
+{
+	width : 622px;
+	height : 380px;
+	margin : auto;
+	padding-top : 50px;
+}
+
+#center iframe {border : 0px; width: 620px; height : 100%;}
+#footer
+{
+	position : relative;
+	width : 60%;
+	height : 20%;
+	margin : auto;
+	padding-top : 10px;
+	padding-bottom : 50px;
+	padding-left : 42%;
+	font-size : 15px;
+	margin-left : 400px
+}
+#sidebar
+{
+	width:198px;
+	height : 500px;
+	float : left;
+	font-size : 16px;
+	background : #A94123;
+	padding-left : 10px;
+	padding-top : 50px;
+	margin-top : -30px;
+	border-radius : 10px 0px 0px 10px; 
+}
+
+#sidebar a {color : #ffffff; text-decoration : none; line-height : 200%;}
